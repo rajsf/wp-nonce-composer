@@ -49,7 +49,7 @@
         "version_normalized": "4.0.0.0",
         "dist": {
             "type": "zip",
-            "url": "https://github.com/rajsf/Wpnonce/archive/master.zip",
+            "url": "https://github.com/rajsf/wp-nonce/archive/master.zip",
             "reference": null,
             "shasum": null
         },

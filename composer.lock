@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "1994cda47c260d3386240b73355ccdc0",
+    "content-hash": "b454d1f7435f51fa826a9e5041a1250a",
     "packages": [
         {
             "name": "fancyguy/webroot-installer",
@@ -53,7 +53,7 @@
             "version": "4.0",
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/rajsf/Wpnonce/archive/master.zip",
+                "url": "https://github.com/rajsf/wp-nonce/archive/master.zip",
                 "reference": null,
                 "shasum": null
             },
